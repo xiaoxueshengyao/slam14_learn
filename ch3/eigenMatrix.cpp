@@ -73,6 +73,7 @@ int main( int argc, char** argv )
     cout << 10*matrix_33 << endl;               // 数乘
     cout << matrix_33.inverse() << endl;        // 逆
     cout << matrix_33.determinant() << endl;    // 行列式
+	
 
     // 特征值
     // 实对称矩阵可以保证对角化成功
