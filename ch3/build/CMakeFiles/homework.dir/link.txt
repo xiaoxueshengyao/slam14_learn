@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -O3 -DNDEBUG   CMakeFiles/homework.dir/homework.cpp.o  -o homework -rdynamic 
